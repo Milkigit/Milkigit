@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milkigit
-- 👀 I’m interested in machine privacy ang trustworthy AI.
-- 🌱 I’m currently learning MPC.
+- 👀 I’m interested in machine privacy and trustworthy AI.
+- 🌱 I’m currently learning decentralized trustworthy computing and MPC.
 - 💞️ I’m looking to collaborate on trustworthy AI.
 - 📫 How to reach me min.chen@cispa.de.
 
