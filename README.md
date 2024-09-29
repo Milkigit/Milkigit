@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine privacy and trustworthy AI.
 - 🌱 I’m currently learning decentralized trustworthy computing and MPC.
 - 💞️ I’m looking to collaborate on trustworthy AI.
-- 📫 How to reach me min.chen@cispa.de.
+- 📫 How to reach me m.chen2@vu.nl.
 
 <!---
 Milkigit/Milkigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
